@@ -1,0 +1,16 @@
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\ResourceMetadata.Model.dll.config
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\ResourceMetadata.Model.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\ResourceMetadata.Model.pdb
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\EntityFramework.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\EntityFramework.xml
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\obj\Debug\ResourceMetadata.Model.csprojAssemblyReference.cache
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\obj\Debug\ResourceMetadata.Model.csproj.CoreCompileInputs.cache
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\obj\Debug\ResourceMetadata.Model.csproj.CopyComplete
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\obj\Debug\ResourceMetadata.Model.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Model\obj\Debug\ResourceMetadata.Model.pdb

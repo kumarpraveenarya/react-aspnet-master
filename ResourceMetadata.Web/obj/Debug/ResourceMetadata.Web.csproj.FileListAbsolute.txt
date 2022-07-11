@@ -1,0 +1,7 @@
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll.config
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\bin\ResourceMetadata.Web.pdb
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.csprojAssemblyReference.cache
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.csproj.CoreCompileInputs.cache
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.dll
+C:\Asus WebStorage\aryajasdev@gmail.com\MySyncFolder\Learning\react-aspnet-master\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.pdb
